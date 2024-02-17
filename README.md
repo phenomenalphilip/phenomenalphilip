@@ -1,7 +1,7 @@
 <h1>Hi, I'm Phenomenal Philip! <br/><a href="https://github.com/phenomenalphilip">Programmer</a>, <a href="https://www.linkedin.com/in/asibor-e-philip/">Product Marketing Professional</a>
 
 <h2>👨‍💻 Python Projects:</h2>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Pig Game)](https://github.com/phenomenalphilip/Pig-Game/)
 
 <h2>📃 Certifications:</h2>
 
