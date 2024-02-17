@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phenomenal Philip! <br/><a href="https://github.com/phenomenalphilip">Programmer</a>, <a href="https://www.linkedin.com/in/asibor-e-philip/">Product Marketing Professional</a>
+<h1>Hi, I'm Phenomenal Philip! <br/><a href="https://github.com/phenomenalphilip">Programmer</a>, <a href="https://www.linkedin.com/in/asibor-e-philip/">Product Marketing Professional with an MBA</a>
 
 <h2>👨‍💻 Python Projects:</h2>
   - [Pig Game)](https://github.com/phenomenalphilip/Pig-Game/)
