@@ -1,7 +1,8 @@
 <h1>Hi, I'm Phenomenal Philip! <br/><a href="https://github.com/phenomenalphilip">Programmer</a>, <a href="https://www.linkedin.com/in/asibor-e-philip/">Product Marketing Professional with an MBA</a>
 
 <h2>👨‍💻 Python Projects:</h2>
-  - [Pig Game)](https://github.com/phenomenalphilip/Pig-Game/)
+   - <a href="https://github.com/phenomenalphilip/Pig-Game/">Pig Game</a>  <br/>
+  
 
 <h2>📃 Certifications:</h2>
 
